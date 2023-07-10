@@ -1,8 +1,21 @@
 # Hi there! I'm Ivan &#128075;
 
-<a href="#">
-  <img src="" />
+<a href="https://www.linkedin.com/in/ivan-danyliuk/">
+  <img width="50px" src="linkedin.png" />
 </a>
+<a href="https://www.facebook.com/ivan.a.danyliuk">
+  <img width="50px" src="facebook.png" />
+</a>
+<a href="https://www.instagram.com/daniliuk.ivan">
+  <img width="50px" src="instagram.png" />
+</a>
+<a href="#">
+  <img width="50px" src="telegram.png" />
+</a>
+<a href="mailto:ivandaniliuk@gmail.com">
+  <img width="50px" src="mail.png" />
+</a>
+
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=IvanDanyliuk" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDanyliuk" />
