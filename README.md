@@ -1,5 +1,3 @@
-# Hi there! I'm Ivan &#128075;
-
 <a href="https://www.linkedin.com/in/ivan-danyliuk/">
   <img width="50px" src="linkedin.png" />
 </a>
