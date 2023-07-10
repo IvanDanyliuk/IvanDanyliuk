@@ -16,5 +16,5 @@
 
 # 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=IvanDanyliuk" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDanyliuk&layout=compact" />
+<img align="left" height="230px" src="https://github-readme-stats.vercel.app/api?username=IvanDanyliuk" />
+<img align="left" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDanyliuk&layout=compact" />
