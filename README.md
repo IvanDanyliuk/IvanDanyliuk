@@ -16,5 +16,5 @@
 
 # 
 
-<img align="left" height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IvanDanyliuk" />
-<img align="left" height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IvanDanyliuk&layout=compact" />
+<img align="left" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IvanDanyliuk" />
+<img align="left" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IvanDanyliuk&layout=compact" />
