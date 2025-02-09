@@ -31,7 +31,7 @@ Hello👋, I'm Ivan Danyliuk, a front-end developer based in Ukraine.
 )
 ![](https://img.shields.io/badge/SASS-sass?style=for-the-badge&logo=sass&logoColor=%23824496&color=%23efefef
 )
-![](https://img.shields.io/badge/FIGMA-figma?style=for-the-badge&logo=figma&logoColor=%23ffffff&color=%231ddede
+![](https://img.shields.io/badge/FIGMA-figma?style=for-the-badge&logo=figma&logoColor=%231ddede&color=%23eeeeee
 )
 
 
