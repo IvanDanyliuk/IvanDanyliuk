@@ -1,7 +1,7 @@
 
 <div align="center">
     <img src="./assets/Banner.png" alt="banner" />
-    <h1>
+    <h1 >
         Hello, I'm Ivan Danyliuk, a front-end developer
     </h1>
 </div>
