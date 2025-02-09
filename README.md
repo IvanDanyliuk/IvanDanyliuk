@@ -50,13 +50,18 @@ Hello👋, I'm Ivan Danyliuk, a front-end developer based in Ukraine.
             </a>
         </td>
         <td>
-            <a href="https://github.com/IvanDanyliuk/github-readme-stats">
-                <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IvanDanyliuk&layout=compact" />
+            <a href="">
+                <img src="https://streak-stats.demolab.com/?user=Ivan_Danyliuk" />
             </a>
         </td>
     </tr>
     <tr>
-        <td colspan="2" align="center">
+        <td>
+            <a href="https://github.com/IvanDanyliuk/github-readme-stats">
+                <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IvanDanyliuk&layout=compact" />
+            </a>
+        </td>
+        <td align="center">
             <a href="https://github.com/IvanDanyliuk/github-readme-stats">
                 <img align="center" src="https://github.r2v.ch/codewars?user=Ivan_Danyliuk" />
             </a>
