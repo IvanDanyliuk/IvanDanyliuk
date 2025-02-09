@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="./assets/Banner.png" alt="banner" />
+    <img src="assets/banner.png" alt="banner" />
     <h1 >
         Hello, I'm Ivan Danyliuk, a front-end developer
     </h1>
