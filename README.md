@@ -2,9 +2,12 @@
 <div align="center">
     <img src="assets/banner.png" alt="banner" />
 </div>
+
 Hello👋, I'm Ivan Danyliuk, a front-end developer based in Ukraine.
 
-### My skills
+## My skills
+<hr/>
+
 ![](https://img.shields.io/badge/HTML-html5?style=for-the-badge&logo=html5&logoColor=%23ffffff&color=%23f5480f
 )
 ![](https://img.shields.io/badge/CSS-css3?style=for-the-badge&logo=css3&logoColor=%23ffffff&color=%230fb1d1
@@ -37,8 +40,8 @@ Hello👋, I'm Ivan Danyliuk, a front-end developer based in Ukraine.
 )
 
 
-### Stats
-
+## Stats
+<hr/>
 <table align="center">
     <tr>
         <td>
