@@ -1,10 +1,8 @@
 
 <div align="center">
     <img src="assets/banner.png" alt="banner" />
-    <h1>
-        Hello, I'm Ivan Danyliuk, a front-end developer
-    </h1>
 </div>
+Hello👋, I'm Ivan Danyliuk, a front-end developer based in Ukraine.
 
 ### My skills
 
