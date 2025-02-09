@@ -19,6 +19,8 @@ Hello👋, I'm Ivan Danyliuk, a front-end developer based in Ukraine.
 )
 ![](https://img.shields.io/badge/NEXT.JS-nextdotjs?style=for-the-badge&logo=nextdotjs&logoColor=%23ffffff&color=%23222222
 )
+![](https://img.shields.io/badge/NODE.JS-nodedotjs?style=for-the-badge&logo=nodedotjs&logoColor=%23ffffff&color=%23169c23
+)
 ![](https://img.shields.io/badge/TAILWINDCSS-tailwindcss?style=for-the-badge&logo=tailwindcss&logoColor=%23ffffff&color=%23188ddb
 )
 ![](https://img.shields.io/badge/MONGODB-mongodb?style=for-the-badge&logo=mongodb&logoColor=%23ffffff&color=%2318db4c
