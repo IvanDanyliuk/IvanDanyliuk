@@ -6,7 +6,6 @@
 Hello👋, I'm Ivan Danyliuk, a front-end developer based in Ukraine.
 
 ## My skills
-<hr/>
 
 ![](https://img.shields.io/badge/HTML-html5?style=for-the-badge&logo=html5&logoColor=%23ffffff&color=%23f5480f
 )
@@ -41,7 +40,7 @@ Hello👋, I'm Ivan Danyliuk, a front-end developer based in Ukraine.
 
 
 ## Stats
-<hr/>
+
 <table align="center">
     <tr>
         <td>
