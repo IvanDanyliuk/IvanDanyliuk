@@ -29,7 +29,7 @@ Hello👋, I'm Ivan Danyliuk, a front-end developer based in Ukraine.
 )
 ![](https://img.shields.io/badge/REST%20API-restapi?style=for-the-badge&color=%23773ac7
 )
-![](https://img.shields.io/badge/GraphQL-graphql?logo=graphql&logoColor=%23E10098&color=%23eeeeee
+![](https://img.shields.io/badge/GRAPHQL-graphql?style=for-the-badge&logo=graphql&logoColor=%23E10098&color=%23eeeeee
 )
 ![](https://img.shields.io/badge/GIT-git?style=for-the-badge&logo=git&logoColor=%23ffffff&color=%23f58207
 )
